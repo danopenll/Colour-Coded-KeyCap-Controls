@@ -1,6 +1,7 @@
 # CLIIKCL
 coloured light icons indicating key control layer
-
+remove control
+CLIIKL
 
 CLIKCL
 
