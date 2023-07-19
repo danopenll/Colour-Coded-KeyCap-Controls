@@ -1,6 +1,30 @@
-# CLIKCL
+# CLIIKCL
+coloured light icons indicating key control layer
+
+
+CLIKCL
 
 COLOURED Light indicating key cap layer
+coloured 
+
+CKCIIKBL
+coloured key cap icons indicating 
+
+CKIIKL
+
+CLI
+
+CKIIKCL
+Coloured keyboard Icons Indicating keycap control layer
+CLIIKCL
+coloured light icons indicating key control layer
+
+
+coloured keycap icons indicating LAYER CONTROL
+
+coloured 
+
+key cap
 
 Colour-Coded-KeyCap-Controls
 CCKCC
